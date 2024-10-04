@@ -3,8 +3,10 @@
 ## **Project Overview**
 
 This project demonstrates the implementation of Deep Convolutional Generative Adversarial Networks (DCGANs) to generate realistic images. We focus on two different datasets:
-1. **Face Images**: Using a dataset of faces to generate high-quality human face images.
-2. **Fashion MNIST**: Using the Fashion MNIST dataset to generate clothing item images.
+1. **Face Images**: Using a dataset of faces to generate high-quality human face images.<img width="521" alt="image" src="https://github.com/user-attachments/assets/3c8cc752-2e1f-4164-81dd-3cdf3ab6a697">
+
+2. **Fashion MNIST**: Using the Fashion MNIST dataset to generate clothing item images.<img width="653" alt="image" src="https://github.com/user-attachments/assets/27c40535-a62e-4748-bf63-63ac779f37fd">
+
 
 Generative Adversarial Networks (GANs) are a powerful class of neural networks used for generative modeling. DCGAN is a variant of GANs that leverages convolutional layers to generate high-quality images by capturing complex data distributions. This project aims to provide a step-by-step guide on training DCGANs, visualizing results, and understanding the architecture of the generator and discriminator networks.
 

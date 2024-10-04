@@ -73,7 +73,8 @@ The Discriminator is structured as follows:
 ## **Results**
 The DCGANs were trained on:
 - **Face Dataset**: Successfully generated realistic face images after sufficient training. The model learned the distribution of features, like facial structure and expressions, to create new and diverse faces.
-- **Fashion MNIST**: The Generator learned to produce various types of clothing items such as shirts, pants, and shoes. The generated images closely resemble the original dataset after a few epochs.<img width="343" alt="image" src="https://github.com/user-attachments/assets/57a66baf-d6b0-40df-a018-6dc34b2f387d">
+- **Fashion MNIST**: The Generator learned to produce various types of clothing items such as shirts, pants, and shoes. The generated images closely resemble the original dataset after a few epochs.
+<img width="343" alt="image" src="https://github.com/user-attachments/assets/57a66baf-d6b0-40df-a018-6dc34b2f387d">
 
 
 Visualizations in the notebooks illustrate the progress of training over epochs, showing how the generated images evolve from random noise to recognizable outputs.
